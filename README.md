@@ -2,7 +2,9 @@
 > Simple HTTP API that responds "yes/no/maybe"
 
 # Introduction
-I have trouble deciding on small matters in my day to day such as whether to order food so I decided to get an API to do it for me. I was learning AWS in particular AWS Lambda and API Gateway Integrations so I created a small python function which responds *"yes / no / maybe"*. This is sent as a reponse when the HTTP API is queried using a `GET` request.
+I have trouble deciding on small matters in my day to day such as whether to order food so I decided to get an API to do it for me. 
+
+I have been learning **AWS**, in particular AWS Lambda and API Gateway Integrations so I created a small python function which responds *"yes / no / maybe"*. This is sent as a reponse when the HTTP API is queried using a `GET` request.
 
 # Prerequisites
 - Create an [AWS](https://aws.amazon.com/) account and login.
